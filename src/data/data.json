@@ -1,0 +1,164 @@
+{
+  "data": {
+    "insights": [
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [
+          {
+            "id": "64dfc32cdca1ed53631cfe64",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": {
+              "feelings": [
+                {
+                  "id": "610d1a76ada49a002148710a",
+                  "group": "Positive",
+                  "name": "calm",
+                  "type": "FEELING"
+                }
+              ],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7db",
+                  "group": "Acknowledge",
+                  "name": "gave a reward",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd742",
+                "group": "Acknowledge",
+                "name": "confident",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:14:52.805Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870b7",
+                "group": "Learning",
+                "name": "excursion",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870b9",
+                "group": "Learning",
+                "name": "school classroom",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64dfc33cdca1ed53631cfe81",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": null,
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd747",
+                "group": "Acknowledge",
+                "name": "independent",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd7b4",
+                "group": "Investigate",
+                "name": "destructive",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:15:08.161Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870b0",
+                "group": "Social",
+                "name": "family event",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870b3",
+                "group": "Social",
+                "name": "sleep over",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64dfc349dca1ed53631cfe8a",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": {
+              "feelings": [
+                {
+                  "id": "610d1a76ada49a0021487108",
+                  "group": "Positive",
+                  "name": "proud",
+                  "type": "FEELING"
+                }
+              ],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7dc",
+                  "group": "Acknowledge",
+                  "name": "offered a future reward",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd74f",
+                "group": "Acknowledge",
+                "name": "funny",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd750",
+                "group": "Acknowledge",
+                "name": "calm",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:15:21.327Z",
+            "activityTags": [
+              {
+                "id": "612e3c60e693cf0028564972",
+                "group": "Relaxing",
+                "name": "computer",
+                "type": "ACTIVITY"
+              }
+            ]
+          }
+        ],
+        "date": "2023-08-19",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      }
+    ]
+  }
+}

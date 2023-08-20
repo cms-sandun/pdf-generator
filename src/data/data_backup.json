@@ -1,0 +1,1471 @@
+{
+  "data": {
+    "insights": [
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-10",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-11",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-12",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-13",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-14",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-15",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-16",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-17",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-18",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-19",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-20",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-21",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-22",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-23",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-24",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-25",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-26",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-27",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-28",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-29",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-30",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-07-31",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-01",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-02",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-03",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-04",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-05",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-06",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-07",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-08",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-09",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-10",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-11",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-12",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-13",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-14",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-15",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-16",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [],
+        "date": "2023-08-17",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [
+          {
+            "id": "64df6d73dca1ed53631cf91b",
+            "date": "2023-08-18",
+            "notes": "Note 1",
+            "reaction": {
+              "feelings": [],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7da",
+                  "group": "Acknowledge",
+                  "name": "offered praise",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd742",
+                "group": "Acknowledge",
+                "name": "confident",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd747",
+                "group": "Acknowledge",
+                "name": "independent",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd74f",
+                "group": "Acknowledge",
+                "name": "funny",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T13:09:07.231Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870c7",
+                "group": "Day-to-day",
+                "name": "brush hair",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870c9",
+                "group": "Day-to-day",
+                "name": "get dressed",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64df6da8dca1ed53631cf943",
+            "date": "2023-08-18",
+            "notes": "Note morning",
+            "reaction": {
+              "feelings": [
+                {
+                  "id": "610d1a76ada49a0021487109",
+                  "group": "Positive",
+                  "name": "positive",
+                  "type": "FEELING"
+                }
+              ],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7fe",
+                  "group": "Investigate",
+                  "name": "provided physical comfort",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd742",
+                "group": "Acknowledge",
+                "name": "confident",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "MORNING",
+            "tracked": "2023-08-18T13:10:00.830Z",
+            "activityTags": [
+              {
+                "id": "612e3c60e693cf0028564972",
+                "group": "Relaxing",
+                "name": "computer",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64df705edca1ed53631cfa0d",
+            "date": "2023-08-18",
+            "notes": null,
+            "reaction": null,
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd742",
+                "group": "Acknowledge",
+                "name": "confident",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "AFTERNOON",
+            "tracked": "2023-08-18T13:21:34.897Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870b6",
+                "group": "Learning",
+                "name": "homework",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870b7",
+                "group": "Learning",
+                "name": "excursion",
+                "type": "ACTIVITY"
+              }
+            ]
+          }
+        ],
+        "date": "2023-08-18",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "NEW"
+          }
+        ],
+        "sleep": {
+          "bedTime": "18:39",
+          "id": "64df6d8bdca1ed53631cf93a",
+          "date": "2023-08-18",
+          "notes": null,
+          "incidents": [],
+          "time": "EVENING",
+          "tracked": "2023-08-18T13:09:31.244Z",
+          "wakeUpTime": null
+        },
+        "therapy": [
+          {
+            "id": "64df6d87dca1ed53631cf935",
+            "date": "2023-08-18",
+            "notes": "Note 2",
+            "tags": [
+              {
+                "id": "610d1a76ada49a00214870f8",
+                "group": "default",
+                "name": "occupational therapy",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870f9",
+                "group": "default",
+                "name": "psychology",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870fa",
+                "group": "default",
+                "name": "physio therapy",
+                "type": "THERAPY"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T13:09:27.027Z"
+          },
+          {
+            "id": "64df6dc9dca1ed53631cf959",
+            "date": "2023-08-18",
+            "notes": "Note 4",
+            "tags": [
+              {
+                "id": "610d1a76ada49a00214870f8",
+                "group": "default",
+                "name": "occupational therapy",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870f9",
+                "group": "default",
+                "name": "psychology",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870fa",
+                "group": "default",
+                "name": "physio therapy",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870fb",
+                "group": "default",
+                "name": "speech therapy",
+                "type": "THERAPY"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T13:10:33.575Z"
+          },
+          {
+            "id": "64df6dd8dca1ed53631cf960",
+            "date": "2023-08-18",
+            "notes": "Note 5",
+            "tags": [
+              {
+                "id": "610d1a76ada49a00214870f8",
+                "group": "default",
+                "name": "occupational therapy",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870f9",
+                "group": "default",
+                "name": "psychology",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870fa",
+                "group": "default",
+                "name": "physio therapy",
+                "type": "THERAPY"
+              },
+              {
+                "id": "610d1a76ada49a00214870fb",
+                "group": "default",
+                "name": "speech therapy",
+                "type": "THERAPY"
+              }
+            ],
+            "time": "AFTERNOON",
+            "tracked": "2023-08-18T13:10:48.358Z"
+          }
+        ]
+      },
+      {
+        "activity": [],
+        "behavior": [],
+        "observation": [
+          {
+            "id": "64dfc32cdca1ed53631cfe64",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": {
+              "feelings": [
+                {
+                  "id": "610d1a76ada49a002148710a",
+                  "group": "Positive",
+                  "name": "calm",
+                  "type": "FEELING"
+                }
+              ],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7db",
+                  "group": "Acknowledge",
+                  "name": "gave a reward",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd742",
+                "group": "Acknowledge",
+                "name": "confident",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:14:52.805Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870b7",
+                "group": "Learning",
+                "name": "excursion",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870b9",
+                "group": "Learning",
+                "name": "school classroom",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64dfc33cdca1ed53631cfe81",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": null,
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd747",
+                "group": "Acknowledge",
+                "name": "independent",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd7b4",
+                "group": "Investigate",
+                "name": "destructive",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:15:08.161Z",
+            "activityTags": [
+              {
+                "id": "610d1a76ada49a00214870b0",
+                "group": "Social",
+                "name": "family event",
+                "type": "ACTIVITY"
+              },
+              {
+                "id": "610d1a76ada49a00214870b3",
+                "group": "Social",
+                "name": "sleep over",
+                "type": "ACTIVITY"
+              }
+            ]
+          },
+          {
+            "id": "64dfc349dca1ed53631cfe8a",
+            "date": "2023-08-19",
+            "notes": null,
+            "reaction": {
+              "feelings": [
+                {
+                  "id": "610d1a76ada49a0021487108",
+                  "group": "Positive",
+                  "name": "proud",
+                  "type": "FEELING"
+                }
+              ],
+              "tags": [
+                {
+                  "id": "64d66ebf234fdaae075dd7dc",
+                  "group": "Acknowledge",
+                  "name": "offered a future reward",
+                  "type": "PARENT_REACTION"
+                }
+              ]
+            },
+            "tags": [
+              {
+                "id": "64d66ebf234fdaae075dd74f",
+                "group": "Acknowledge",
+                "name": "funny",
+                "type": "OBSERVATION"
+              },
+              {
+                "id": "64d66ebf234fdaae075dd750",
+                "group": "Acknowledge",
+                "name": "calm",
+                "type": "OBSERVATION"
+              }
+            ],
+            "time": "EVENING",
+            "tracked": "2023-08-18T19:15:21.327Z",
+            "activityTags": [
+              {
+                "id": "612e3c60e693cf0028564972",
+                "group": "Relaxing",
+                "name": "computer",
+                "type": "ACTIVITY"
+              }
+            ]
+          }
+        ],
+        "date": "2023-08-19",
+        "medications": [
+          {
+            "medication": {
+              "id": "64df7081dca1ed53631cfa11",
+              "medication": {
+                "id": "610d1a77ada49a002148715f",
+                "name": "Abilify",
+                "availableDoses": []
+              },
+              "dose": "10",
+              "times": [],
+              "doseAmount": null,
+              "enabled": true,
+              "days": [],
+              "sendReminder": false
+            },
+            "status": "UNKNOWN"
+          }
+        ],
+        "sleep": null,
+        "therapy": []
+      }
+    ]
+  }
+}
